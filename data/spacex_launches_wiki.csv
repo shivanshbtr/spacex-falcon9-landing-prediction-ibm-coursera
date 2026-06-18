@@ -1,0 +1,237 @@
+Date,BoosterVersion,LaunchSite,Payload,PayloadMass_kg,Orbit,Outcome
+"January 4, 2025",F9 B5B1073‐20,"Cape Canaveral, SLC‐40",Thuraya 4-NGS,5000.0,GTO,Success
+"January 6, 2025",F9 B5B1077‐17,"Cape Canaveral, SLC‐40",Starlink: Group 6‐71,17500.0,LEO,Success
+"January 8, 2025",F9 B5B1086‐3,"Kennedy, LC‐39A",Starlink: Group 12-11 (21 satellites),16500.0,LEO,Success
+"January 10, 2025",F9 B5B1071‐22,"Vandenberg, SLC‐4E",NROL-153 (22 Starshield satellites),,LEO,Success
+"January 10, 2025",F9 B5B1067‐25,"Cape Canaveral, SLC‐40",Starlink: Group 12-12 (21 satellites),16500.0,LEO,Success
+"January 13, 2025",F9 B5B1080‐15,"Cape Canaveral, SLC‐40",Starlink: Group 12-4 (21 satellites),16500.0,LEO,Success
+"January 14, 2025",F9 B5B1088‐2,"Vandenberg, SLC‐4E",Transporter-12 (131 payload smallsat rideshare),2000.0,SSO,Success
+"January 15, 2025",F9 B5B1085‐5,"Kennedy, LC‐39A",Blue Ghost Mission 1,2517.0,TLI,Success
+"January 21, 2025",F9 B5B1083‐8,"Kennedy, LC‐39A",Starlink: Group 13-1 (21 satellites) + 2 Starshield satellites,15300.0,LEO,Success
+"January 21, 2025",F9 B5B1082‐10,"Vandenberg, SLC‐4E",Starlink: Group 11-8 (27 satellites),15500.0,LEO,Success
+"January 24, 2025",F9 B5B1063‐23,"Vandenberg, SLC‐4E",Starlink: Group 11-6 (23 satellites),17100.0,LEO,Success
+"January 27, 2025",F9 B5B1076‐20,"Cape Canaveral, SLC‐40",Starlink: Group 12-7 (21 satellites),16500.0,LEO,Success
+"January 30, 2025",F9 B5B1073‐21,"Kennedy, LC‐39A",Spainsat NG I,6100.0,GTO,Success
+"February 1, 2025",F9 B5B1075‐17,"Vandenberg, SLC-4E",Starlink: Group 11-4,16700.0,LEO,Success
+"February 4, 2025",F9 B5B1069‐21,"Cape Canaveral, SLC‐40",Starlink: Group 12-3 (21 satellites),16500.0,LEO,Success
+"February 4, 2025",F9 B5B1086‐4,"Kennedy, LC‐39A",WorldView Legion 5 & 6 (2 satellites),1500.0,LEO,Success
+"February 8, 2025",F9 B5B1078‐17,"Cape Canaveral, SLC‐40",Starlink: Group 12-9 (21 satellites),16500.0,LEO,Success
+"February 11, 2025",F9 B5B1071‐23,"Vandenberg, SLC-4E",Starlink: Group 11-10,17100.0,LEO,Success
+"February 11, 2025",F9 B5B1077‐18,"Cape Canaveral, SLC‐40",Starlink: Group 12-18 (21 satellites),16500.0,LEO,Success
+"February 15, 2025",F9 B5 B1067‐26,"Cape Canaveral, SLC‐40",Starlink: Group 12-8,16500.0,LEO,Success
+"February 18, 2025",F9 B5B1080‐16,"Cape Canaveral, SLC‐40",Starlink: Group 10-12 (23 satellites),17100.0,LEO,Success
+"February 21, 2025",F9 B5B1076‐21,"Cape Canaveral, SLC‐40",Starlink: Group 12-14 (23 satellites),17100.0,LEO,Success
+"February 23, 2025",F9 B5B1082‐11,"Vandenberg, SLC‐4E",Starlink: Group 15-1 (22 satellites),16800.0,LEO,Success
+"February 27, 2025",F9 B5B1083‐9,"Kennedy, LC‐39A","IM-2 Nova-C ""Athena"" lunar landerLunar TrailblazerBrokkr-2 OdinChimera-1TBD",,TLI,Success
+"February 27, 2025",F9 B5B1092‐1,"Cape Canaveral, SLC‐40",Starlink: Group 12-13 (21 satellites),16500.0,LEO,Success
+"March 3, 2025",F9 B5B1086‐5,"Cape Canaveral, SLC‐40",Starlink: Group 12-20 (21 satellites),16500.0,LEO,Success
+"March 12, 2025",F9 B5B1088‐3,"Vandenberg, SLC‐4E",SPHERExPUNCH,758.0,SSO,Success
+"March 13, 2025",F9 B5B1069‐22,"Cape Canaveral, SLC‐40",Starlink: Group 12-21,16500.0,LEO,Success
+"March 14, 2025",F9 B5B1090‐2,"Kennedy, LC‐39A",Crew-10 (Crew Dragon C210-4 Endurance),13000.0,LEO (ISS),Success
+"March 15, 2025",F9 B5B1081‐13,"Vandenberg, SLC‐4E",Transporter-13 (74 payload smallsat rideshare),,SSO,Success
+"March 15, 2025",F9 B5B1078‐18,"Cape Canaveral, SLC‐40",Starlink: Group 12-16,17100.0,LEO,Success
+"March 18, 2025",F9 B5B1077‐19,"Cape Canaveral, SLC‐40",Starlink: Group 12-25,17100.0,LEO,Success
+"March 21, 2025",F9 B5B1088‐4,"Vandenberg, SLC‐4E",NROL-57 (~11 Starshield satellites),,LEO,Success
+"March 24, 2025",F9 B5B1092‐2,"Cape Canaveral, SLC‐40",NROL-69,,LEO,Success
+"March 26, 2025",F9 B5B1063‐24,"Vandenberg, SLC‐4E",Starlink: Group 11-7,15500.0,LEO,Success
+"March 31, 2025",F9 B5B1080‐17,"Cape Canaveral, SLC‐40",Starlink: Group 6-80,16100.0,LEO,Success
+"April 1, 2025",F9 B5B1085‐6,"Kennedy, LC‐39A",Fram2 (Crew Dragon C207-4 Resilience),13000.0,Polar (Retrograde),Success
+"April 4, 2025",F9 B5B1088‐5,"Vandenberg, SLC‐4E",Starlink: Group 11-13,15500.0,LEO,Success
+"April 6, 2025",F9 B5B1078‐19,"Cape Canaveral, SLC‐40",Starlink: Group 6-72,16100.0,LEO,Success
+"April 7, 2025",F9 B5B1093‐1,"Vandenberg, SLC‐4E",Starlink: Group 11-11,15500.0,LEO,Success
+"April 12, 2025",F9 B5B1071‐24,"Vandenberg, SLC‐4E",NROL-192 (22 Starshield satellites),,LEO,Success
+"April 13, 2025",F9 B5B1083‐10,"Kennedy, LC‐39A",Starlink: Group 12-17,16500.0,LEO,Success
+"April 14, 2025",F9 B5B1067‐27,"Cape Canaveral, SLC‐40",Starlink: Group 6-73,15500.0,LEO,Success
+"April 20, 2025",F9 B5B1082‐12,"Vandenberg, SLC‐4E",NROL-145 (22 Starshield satellites),,LEO,Success
+"April 21, 2025",F9 B5 B1092‐3,"Kennedy, LC‐39A",SpaceX CRS-32 (Cargo Dragon C209-5),3021.0,LEO (ISS),Success
+"April 22, 2025",F9 B5B1090‐3,"Cape Canaveral, SLC‐40","Bandwagon-3 (425Sat-3, Tomorrow-S7, PHOENIX)",,LEO,Success
+"April 25, 2025",F9 B5B1069‐23,"Cape Canaveral, SLC‐40",Starlink: Group 6-74,16100.0,LEO,Success
+"April 28, 2025",F9 B5B1077‐20,"Cape Canaveral, SLC‐40",Starlink: Group 12-23,17100.0,LEO,Success
+"April 28, 2025",F9 B5B1063‐25,"Vandenberg, SLC‐4E",Starlink: Group 11-9,15500.0,LEO,Success
+"April 29, 2025",F9 B5B1094‐1,"Kennedy, LC‐39A",Starlink: Group 12-10,17100.0,LEO,Success
+"May 2, 2025",F9 B5B1080‐18,"Cape Canaveral, SLC‐40",Starlink: Group 6-75,16100.0,LEO,Success
+"May 4, 2025",F9 B5B1078‐20,"Kennedy, LC‐39A",Starlink: Group 6-84,16675.0,LEO,Success
+"May 7, 2025",F9 B5B1085‐7,"Cape Canaveral, SLC‐40",Starlink: Group 6-93,16100.0,LEO,Success
+"May 10, 2025",F9 B5B1081‐14,"Vandenberg, SLC‐4E",Starlink: Group 15-3,14950.0,LEO,Success
+"May 10, 2025",F9 B5B1083‐11,"Cape Canaveral, SLC‐40",Starlink: Group 6-91,16100.0,LEO,Success
+"May 13, 2025",F9 B5B1088‐6,"Vandenberg, SLC‐4E",Starlink: Group 15-4,14950.0,LEO,Success
+"May 13, 2025",F9 B5B1067‐28,"Kennedy, LC‐39A",Starlink: Group 6-83,16100.0,LEO,Success
+"May 14, 2025",F9 B5B1090‐4,"Cape Canaveral, SLC‐40",Starlink: Group 6-67,16100.0,LEO,Success
+"May 16, 2025",F9 B5B1093‐2,"Vandenberg, SLC‐4E",Starlink: Group 15-5,14950.0,LEO,Success
+"May 21, 2025",F9 B5B1095‐1,"Cape Canaveral, SLC‐40",Starlink: Group 12-15,17100.0,LEO,Success
+"May 23, 2025",F9 B5B1075‐18,"Vandenberg, SLC‐4E",Starlink: Group 11-16,15500.0,LEO,Success
+"May 24, 2025",F9 B5B1069‐24,"Cape Canaveral, SLC‐40",Starlink: Group 12-22,17100.0,LEO,Success
+"May 27, 2025",F9 B5B1082‐13,"Vandenberg, SLC‐4E",Starlink: Group 17-1,17500.0,SSO,Success
+"May 28, 2025",F9 B5B1080‐19,"Kennedy, LC‐39A",Starlink: Group 10-32,15500.0,LEO,Success
+"May 30, 2025",F9 B5B1092‐4,"Cape Canaveral, SLC‐40",GPS III-8,4350.0,MEO,Success
+"May 31, 2025",F9 B5B1071‐25,"Vandenberg, SLC‐4E",Starlink: Group 11-18,15500.0,LEO,Success
+"June 3, 2025",F9 B5B1077‐21,"Cape Canaveral, SLC‐40",Starlink: Group 12-19,17100.0,LEO,Success
+"June 4, 2025",F9 B5B1063‐26,"Vandenberg, SLC‐4E",Starlink: Group 11-22,15500.0,LEO,Success
+"June 7, 2025",F9 B5B1085‐8,"Cape Canaveral, SLC‐40",SXM-10,6400.0,GTO,Success
+"June 8, 2025",F9 B5B1088‐7,"Vandenberg, SLC‐4E",Starlink: Group 15-8,14950.0,LEO,Success
+"June 10, 2025",F9 B5B1083‐12,"Cape Canaveral, SLC‐40",Starlink: Group 12-24,17100.0,LEO,Success
+"June 13, 2025",F9 B5B1081‐15,"Vandenberg, SLC‐4E",Starlink: Group 15-6,14950.0,LEO,Success
+"June 13, 2025",F9 B5B1078‐21,"Cape Canaveral, SLC‐40",Starlink: Group 12-26,17100.0,LEO,Success
+"June 17, 2025",F9 B5B1093‐3,"Vandenberg, SLC‐4E",Starlink: Group 15-9,14950.0,LEO,Success
+"June 18, 2025",F9 B5B1090‐5,"Cape Canaveral, SLC‐40",Starlink: Group 10-18,16100.0,LEO,Success
+"June 23, 2025",F9 B5B1069‐25,"Cape Canaveral, SLC‐40",Starlink: Group 10-23,15500.0,LEO,Success
+"June 23, 2025",F9 B5B1071‐26,"Vandenberg, SLC‐4E",Transporter-14 (70 payloads smallsat rideshare),,SSO,Success
+"June 25, 2025",F9 B5B1094‐2,"Kennedy, LC‐39A",Axiom Mission 4 (Crew Dragon C213-1 Grace),13000.0,LEO (ISS),Success
+"June 25, 2025",F9 B5B1080‐20,"Cape Canaveral, SLC‐40",Starlink: Group 10-16,15500.0,LEO,Success
+"June 28, 2025",F9 B5B1092‐5,"Cape Canaveral, SLC‐40",Starlink: Group 10-34,15500.0,LEO,Success
+"June 28, 2025",F9 B5B1088‐8,"Vandenberg, SLC‐4E",Starlink: Group 15-7,14950.0,LEO,Success
+"July 1, 2025",F9 B5B1085‐9,"Kennedy, LC‐39A",MTG-S1 / Sentinel-4A,3800.0,GTO,Success
+"July 2, 2025",F9 B5B1067‐29,"Cape Canaveral, SLC‐40",Starlink: Group 10-25,15500.0,LEO,Success
+"July 8, 2025",F9 B5B1077‐22,"Cape Canaveral, SLC‐40",Starlink: Group 10-28,16100.0,LEO,Success
+"July 13, 2025",F9 B5B1083‐13,"Cape Canaveral, SLC‐40",Dror-1 [he],4000.0,GTO,Success
+"July 16, 2025",F9 B5B1093‐4,"Vandenberg, SLC‐4E",Starlink: Group 15-2,14950.0,LEO,Success
+"July 16, 2025",F9 B5B1096‐1,"Cape Canaveral, SLC‐40",KuiperSat × 24 (KF-01),14784.0,LEO,Success
+"July 19, 2025",F9 B5B1082‐14,"Vandenberg, SLC‐4E",Starlink: Group 17-3,17500.0,SSO,Success
+"July 22, 2025",F9 B5B1090‐6,"Cape Canaveral, SLC‐40",O3b mPOWER 9 & 10,3400.0,MEO,Success
+"July 23, 2025",F9 B5B1081‐16,"Vandenberg, SLC‐4E",TRACERS (2 satellites)+ 5 rideshares,920.0,SSO,Success
+"July 26, 2025",F9 B5B1078‐22,"Cape Canaveral, SLC‐40",Starlink: Group 10-26,16100.0,LEO,Success
+"July 27, 2025",F9 B5B1075‐19,"Vandenberg, SLC‐4E",Starlink: Group 17-2,17500.0,SSO,Success
+"July 30, 2025",F9 B5B1069‐26,"Cape Canaveral, SLC‐40",Starlink: Group 10-29,16100.0,LEO,Success
+"July 31, 2025",F9 B5B1071‐27,"Vandenberg, SLC‐4E",Starlink: Group 13-4 + 2 Starshield satellites,14060.0,SSO,Success
+"August 1, 2025",F9 B5B1094‐3,"Kennedy, LC‐39A",Crew-11 (Crew Dragon C206-6 Endeavour),13000.0,LEO (ISS),Success
+"August 4, 2025",F9 B5B1080‐21,"Cape Canaveral, SLC‐40",Starlink: Group 10-30,16100.0,LEO,Success
+"August 11, 2025",F9 B5B1091‐1,"Cape Canaveral, SLC‐40",KuiperSat × 24 (KF-02),14784.0,LEO,Success
+"August 14, 2025",F9 B5B1093‐5,"Vandenberg, SLC‐4E",Starlink: Group 17-4,17500.0,SSO,Success
+"August 14, 2025",F9 B5B1085‐10,"Cape Canaveral, SLC‐40",Starlink: Group 10-20,16100.0,LEO,Success
+"August 18, 2025",F9 B5B1088‐9,"Vandenberg, SLC‐4E",Starlink: Group 17-5,17500.0,SSO,Success
+"August 22, 2025",F9 B5B1092‐6,"Kennedy, LC‐39A",USSF-36 (Boeing X-37B OTV-8),4990.0,LEO,Success
+"August 22, 2025",F9 B5B1081‐17,"Vandenberg, SLC‐4E",Starlink: Group 17-6,17500.0,SSO,Success
+"August 24, 2025",F9 B5B1090‐7,"Cape Canaveral, SLC‐40",SpaceX CRS-33 (Dragon C211-3),2300.0,LEO (ISS),Success
+"August 26, 2025",F9 B5B1063‐27,"Vandenberg, SLC‐4E",NAOS + 7 rideshares,1370.0,SSO,Success
+"August 27, 2025",F9 B5B1095‐2,"Cape Canaveral, SLC‐40",Starlink: Group 10-56,16100.0,LEO,Success
+"August 28, 2025",F9 B5B1067‐30,"Kennedy, LC‐39A",Starlink: Group 10-11,16100.0,LEO,Success
+"August 30, 2025",F9 B5B1082‐15,"Vandenberg, SLC‐4E",Starlink: Group 17-7,17500.0,SSO,Success
+"August 31, 2025",F9 B5B1077‐23,"Cape Canaveral, SLC‐40",Starlink: Group 10-14,16100.0,LEO,Success
+"September 3, 2025",F9 B5B1097‐1,"Vandenberg, SLC‐4E",Starlink: Group 17-8,17500.0,SSO,Success
+"September 3, 2025",F9 B5B1083‐14,"Cape Canaveral, SLC‐40",Starlink: Group 10-22,16100.0,LEO,Success
+"September 5, 2025",F9 B5B1069‐27,"Kennedy, LC‐39A",Starlink: Group 10-57,16100.0,LEO,Success
+"September 6, 2025",F9 B5B1075‐20,"Vandenberg, SLC‐4E",Starlink: Group 17-9,17500.0,SSO,Success
+"September 10, 2025",F9 B5B1093‐6,"Vandenberg, SLC‐4E",SDA Tranche 1 Transport Layer B (21 satellites),,Polar LEO,Success
+"September 12, 2025",F9 B5B1078‐23,"Cape Canaveral, SLC‐40",Nusantara Lima,7800.0,GTO,Success
+"September 13, 2025",F9 B5B1071‐28,"Vandenberg, SLC‐4E",Starlink: Group 17-10,17500.0,SSO,Success
+"September 14, 2025",F9 B5B1094‐4,"Cape Canaveral, SLC‐40","CRS NG-23 (S.S. William ""Willie"" C. McCool)",5000.0,LEO (ISS),Success
+"September 18, 2025",F9 B5B1092‐7,"Cape Canaveral, SLC‐40",Starlink: Group 10-61,16100.0,LEO,Success
+"September 19, 2025",F9 B5B1088‐10,"Vandenberg, SLC‐4E",Starlink: Group 17-12,17500.0,SSO,Success
+"September 21, 2025",F9 B5B1085‐11,"Cape Canaveral, SLC‐40",Starlink: Group 10-27,16100.0,LEO,Success
+"September 22, 2025",F9 B5B1081‐18,"Vandenberg, SLC‐4E",NROL-48 (~11 Starshield satellites),,LEO,Success
+"September 24, 2025",F9 B5B1096‐2,"Kennedy, LC‐39A",Interstellar Mapping and Acceleration Probe (IMAP),1477.0,Sun–Earth L1,Success
+"September 25, 2025",F9 B5B1080‐22,"Cape Canaveral, SLC‐40",Starlink: Group 10-15,16100.0,LEO,Success
+"September 26, 2025",F9 B5B1082‐16,"Vandenberg, SLC‐4E",Starlink: Group 17-11,17500.0,SSO,Success
+"September 29, 2025",F9 B5B1063‐28,"Vandenberg, SLC‐4E",Starlink: Group 11-20,16100.0,LEO,Success
+"October 3, 2025",F9 B5B1097‐2,"Vandenberg, SLC‐4E",Starlink: Group 11-39,16100.0,LEO,Success
+"October 7, 2025",F9 B5B1090‐8,"Cape Canaveral, SLC‐40",Starlink: Group 10-59,16100.0,LEO,Success
+"October 8, 2025",F9 B5B1071‐29,"Vandenberg, SLC‐4E",Starlink: Group 11-17,16100.0,LEO,Success
+"October 14, 2025",F9 B5B1091‐2,"Cape Canaveral, SLC‐40",KuiperSat × 24 (KF-03),14784.0,LEO,Success
+"October 15, 2025",F9 B5B1093‐7,"Vandenberg, SLC‐4E",SDA Tranche 1 Transport Layer C (21 satellites),,Polar LEO,Success
+"October 16, 2025",F9 B5B1095‐3,"Cape Canaveral, SLC‐40",Starlink: Group 10-52,16100.0,LEO,Success
+"October 19, 2025",F9 B5B1067‐31,"Cape Canaveral, SLC‐40",Starlink: Group 10-17,16100.0,LEO,Success
+"October 19, 2025",F9 B5B1088‐11,"Vandenberg, SLC‐4E",Starlink: Group 11-19,16100.0,LEO,Success
+"October 22, 2025",F9 B5B1075‐21,"Vandenberg, SLC‐4E",Starlink: Group 11-5,16100.0,LEO,Success
+"October 24, 2025",F9 B5B1076‐22,"Cape Canaveral, SLC‐40",Spainsat NG II,6100.0,GTO,Success
+"October 25, 2025",F9 B5B1081‐19,"Vandenberg, SLC‐4E",Starlink: Group 11-12,16100.0,LEO,Success
+"October 26, 2025",F9 B5B1077‐24,"Cape Canaveral, SLC‐40",Starlink: Group 10-21,16100.0,LEO,Success
+"October 28, 2025",F9 B5B1082‐17,"Vandenberg, SLC‐4E",Starlink: Group 11-21,16100.0,LEO,Success
+"October 29, 2025",F9 B5B1083‐15,"Cape Canaveral, SLC‐40",Starlink: Group 10-37,16675.0,LEO,Success
+"October 31, 2025",F9 B5B1063‐29,"Vandenberg, SLC‐4E",Starlink: Group 11-23,16100.0,LEO,Success
+"November 2, 2025",F9 B5B1091‐3,"Cape Canaveral, SLC‐40",Bandwagon-4 (18 payloads smallsat rideshare),,LEO,Success
+"November 6, 2025",F9 B5B1094‐5,"Cape Canaveral, SLC‐40",Starlink: Group 6-81,16675.0,LEO,Success
+"November 6, 2025",F9 B5B1093‐8,"Vandenberg, SLC‐4E",Starlink: Group 11-14,16100.0,LEO,Success
+"November 9, 2025",F9 B5B1069‐28,"Kennedy, LC‐39A",Starlink: Group 10-51,16675.0,LEO,Success
+"November 11, 2025",F9 B5B1096‐3,"Cape Canaveral, SLC‐40",Starlink: Group 6-87,16675.0,LEO,Success
+"November 15, 2025",F9 B5B1092‐8,"Kennedy, LC‐39A",Starlink: Group 6-89,16675.0,LEO,Success
+"November 15, 2025",F9 B5B1078‐24,"Cape Canaveral, SLC‐40",Starlink: Group 6-85,16675.0,LEO,Success
+"November 17, 2025",F9 B5B1097‐3,"Vandenberg, SLC‐4E",Sentinel-6B,1440.0,LEO,Success
+"November 19, 2025",F9 B5B1085‐12,"Cape Canaveral, SLC‐40",Starlink: Group 6-94,16675.0,LEO,Success
+"November 21, 2025",F9 B5B1080‐23,"Kennedy, LC‐39A",Starlink: Group 6-78,16675.0,LEO,Success
+"November 22, 2025",F9 B5B1090‐9,"Cape Canaveral, SLC‐40",Starlink: Group 6-79,16675.0,LEO,Success
+"November 23, 2025",F9 B5B1100‐1,"Vandenberg, SLC‐4E",Starlink: Group 11-30,16100.0,LEO,Success
+"November 28, 2025",F9 B5B1071‐30,"Vandenberg, SLC‐4E",Transporter-15 (140 payloads smallsat rideshare),,SSO,Success
+"December 1, 2025",F9 B5B1095‐4,"Kennedy, LC‐39A",Starlink: Group 6-86,16675.0,LEO,Success
+"December 2, 2025",F9 B5B1081‐20,"Vandenberg, SLC‐4E",Starlink: Group 15-10,15525.0,LEO,Success
+"December 2, 2025",F9 B5B1077‐25,"Cape Canaveral, SLC‐40",Starlink: Group 6-95,16675.0,LEO,Success
+"December 4, 2025",F9 B5B1097‐4,"Vandenberg, SLC‐4E",Starlink: Group 11-25,16100.0,LEO,Success
+"December 7, 2025",F9 B5B1088‐12,"Vandenberg, SLC‐4E",Starlink: Group 11-15,16100.0,LEO,Success
+"December 8, 2025",F9 B5B1067‐32,"Kennedy, LC‐39A",Starlink: Group 6-92,16675.0,LEO,Success
+"December 9, 2025",F9 B5B1096‐4,"Cape Canaveral, SLC‐40",NROL-77,,LEO,Success
+"December 10, 2025",F9 B5B1082‐18,"Vandenberg, SLC‐4E",Starlink: Group 15-11,15525.0,LEO,Success
+"December 11, 2025",F9 B5B1083‐16,"Cape Canaveral, SLC‐40",Starlink: Group 6-90,16675.0,LEO,Success
+"December 14, 2025",F9 B5B1093‐9,"Vandenberg, SLC‐4E",Starlink: Group 15-12,15525.0,LEO,Success
+"December 15, 2025",F9 B5B1092‐9,"Cape Canaveral, SLC‐40",Starlink: Group 6-82,16675.0,LEO,Success
+"December 17, 2025",F9 B5B1094‐6,"Kennedy, LC‐39A",Starlink: Group 6-99,16675.0,LEO,Success
+"December 17, 2025",F9 B5B1063‐30,"Vandenberg, SLC‐4E",Starlink: Group 15-13,15525.0,LEO,Success
+"January 3, 2026",F9 B5B1081‐21,"Vandenberg, SLC‐4E",CSG-3,2230.0,SSO,Success
+"January 4, 2026",F9 B5B1101‐1,"Cape Canaveral, SLC‐40",Starlink: Group 6-88,16675.0,LEO,Success
+"January 9, 2026",F9 B5B1069‐29,"Cape Canaveral, SLC‐40",Starlink: Group 6-96,16675.0,LEO,Success
+"January 11, 2026",F9 B5B1097‐5,"Vandenberg, SLC‐4E",Twilight (Pandora and others 39 payloads),325.0,SSO,Success
+"January 12, 2026",F9 B5B1078‐25,"Cape Canaveral, SLC‐40",Starlink: Group 6-97,16675.0,LEO,Success
+"January 14, 2026",F9 B5B1085‐13,"Cape Canaveral, SLC‐40",Starlink: Group 6-98,16675.0,LEO,Success
+"January 17, 2026",F9 B5B1100‐2,"Vandenberg, SLC‐4E",NROL-105 (2 Starshield satellites),,LEO,Success
+"January 18, 2026",F9 B5B1080‐24,"Cape Canaveral, SLC‐40",Starlink: Group 6-100,16675.0,LEO,Success
+"January 22, 2026",F9 B5B1093‐10,"Vandenberg, SLC‐4E",Starlink: Group 17-30,14375.0,SSO,Success
+"January 25, 2026",F9 B5B1097‐6,"Vandenberg, SLC‐4E",Starlink: Group 17-20,14375.0,SSO,Success
+"January 28, 2026",F9 B5B1096‐5,"Cape Canaveral, SLC‐40",GPS III-9,4350.0,MEO,Success
+"January 29, 2026",F9 B5B1082‐19,"Vandenberg, SLC‐4E",Starlink: Group 17-19,14375.0,SSO,Success
+"January 30, 2026",F9 B5B1095‐5,"Cape Canaveral, SLC‐40",Starlink: Group 6-101,16675.0,LEO,Success
+"February 2, 2026",F9 B5B1071‐31,"Vandenberg, SLC‐4E",Starlink: Group 17-32,14375.0,SSO,Success
+"February 7, 2026",F9 B5B1088‐13,"Vandenberg, SLC‐4E",Starlink: Group 17-33,14375.0,SSO,Success
+"February 11, 2026",F9 B5B1100‐3,"Vandenberg, SLC‐4E",Starlink: Group 17-34,13800.0,SSO,Success
+"February 13, 2026",F9 B5B1101‐2,"Cape Canaveral, SLC‐40",Crew-12 (Crew Dragon C212-5 Freedom),13000.0,LEO (ISS),Success
+"February 15, 2026",F9 B5B1081‐22,"Vandenberg, SLC‐4E",Starlink: Group 17-13,13800.0,SSO,Success
+"February 16, 2026",F9 B5B1090‐10,"Cape Canaveral, SLC‐40",Starlink: Group 6-103,16675.0,LEO,Success
+"February 20, 2026",F9 B5B1077‐26,"Cape Canaveral, SLC‐40",Starlink: Group 10-36,16675.0,LEO,Success
+"February 21, 2026",F9 B5B1063‐31,"Vandenberg, SLC‐4E",Starlink: Group 17-25,14375.0,SSO,Success
+"February 22, 2026",F9 B5B1067‐33,"Cape Canaveral, SLC‐40",Starlink: Group 6-104,16100.0,LEO,Success
+"February 24, 2026",F9 B5B1092‐10,"Cape Canaveral, SLC‐40",Starlink: Group 6-110,16675.0,LEO,Success
+"February 25, 2026",F9 B5B1093‐11,"Vandenberg, SLC‐4E",Starlink: Group 17-26,14375.0,SSO,Success
+"February 27, 2026",F9 B5B1069‐30,"Cape Canaveral, SLC‐40",Starlink: Group 6-108,16675.0,LEO,Success
+"March 1, 2026",F9 B5B1082‐20,"Vandenberg, SLC‐4E",Starlink: Group 17-23,14375.0,SSO,Success
+"March 2, 2026",F9 B5B1078‐26,"Cape Canaveral, SLC‐40",Starlink: Group 10-41,16675.0,LEO,Success
+"March 4, 2026",F9 B5B1080‐25,"Cape Canaveral, SLC‐40",Starlink: Group 10-40,16675.0,LEO,Success
+"March 8, 2026",F9 B5B1097‐7,"Vandenberg, SLC‐4E",Starlink: Group 17-18,14375.0,SSO,Success
+"March 10, 2026",F9 B5B1085‐14,"Cape Canaveral, SLC‐40",EchoStar XXV,6800.0,GTO,Success
+"March 13, 2026",F9 B5B1071‐32,"Vandenberg, SLC‐4E",Starlink: Group 17-31,14375.0,SSO,Success
+"March 14, 2026",F9 B5B1095‐6,"Cape Canaveral, SLC‐40",Starlink: Group 10-48,16675.0,LEO,Success
+"March 17, 2026",F9 B5B1088‐14,"Vandenberg, SLC‐4E",Starlink: Group 17-24,14375.0,SSO,Success
+"March 17, 2026",F9 B5B1090‐11,"Cape Canaveral, SLC‐40",Starlink: Group 10-46,16675.0,LEO,Success
+"March 19, 2026",F9 B5B1077‐27,"Cape Canaveral, SLC‐40",Starlink: Group 10-33,16675.0,LEO,Success
+"March 20, 2026",F9 B5B1100‐4,"Vandenberg, SLC‐4E",Starlink: Group 17-15,14375.0,SSO,Success
+"March 22, 2026",F9 B5B1078‐27,"Cape Canaveral, SLC‐40",Starlink: Group 10-62,16675.0,LEO,Success
+"March 26, 2026",F9 B5B1081‐23,"Vandenberg, SLC‐4E",Starlink: Group 17-17,14375.0,SSO,Success
+"March 30, 2026",F9 B5B1093‐12,"Vandenberg, SLC‐4E",Transporter-16 (119 payloads smallsat rideshare),,SSO,Success
+"March 30, 2026",F9 B5B1067‐34,"Cape Canaveral, SLC‐40",Starlink: Group 10-44,16675.0,LEO,Success
+"April 2, 2026",F9 B5B1085‐15,"Cape Canaveral, SLC‐40",Starlink: Group 10-58,16675.0,LEO,Success
+"April 7, 2026",F9 B5B1103‐1,"Vandenberg, SLC‐4E",Starlink: Group 17-35,14375.0,SSO,Success
+"April 11, 2026",F9 B5B1063‐32,"Vandenberg, SLC‐4E",Starlink: Group 17-21,14375.0,SSO,Success
+"April 11, 2026",F9 B5B1094‐7,"Cape Canaveral, SLC‐40",Cygnus NG-24,5000.0,LEO (ISS),Success
+"April 14, 2026",F9 B5B1080‐26,"Cape Canaveral, SLC‐40",Starlink: Group 10-24,16675.0,LEO,Success
+"April 15, 2026",F9 B5B1082‐21,"Vandenberg, SLC‐4E",Starlink: Group 17-27,14375.0,SSO,Success
+"April 19, 2026",F9 B5B1097‐8,"Vandenberg, SLC‐4E",Starlink: Group 17-22,14375.0,LEO,Success
+"April 21, 2026",F9 B5B1095‐7,"Cape Canaveral, SLC‐40",GPS III-10,4350.0,MEO,Success
+"April 23, 2026",F9 B5B1100‐5,"Vandenberg, SLC‐4E",Starlink: Group 17-14,13800.0,SSO,Success
+"April 26, 2026",F9 B5B1088‐15,"Vandenberg, SLC‐4E",Starlink: Group 17-16,14375.0,SSO,Success
+"April 29, 2026",Falcon Heavy B5B1098 (core),"Kennedy, LC‐39A",ViaSat-3 F3,6400.0,GTO,Success
+"April 30, 2026",F9 B5B1093‐13,"Vandenberg, SLC‐4E",Starlink: Group 17-36,13800.0,SSO,Success
+"May 1, 2026",F9 B5B1069‐31,"Cape Canaveral, SLC‐40",Starlink: Group 10-38,16675.0,LEO,Success
+"May 3, 2026",F9 B5B1071‐33,"Vandenberg, SLC‐4E",CAS500-245 Rideshares,500.0,SSO,Success
+"May 6, 2026",F9 B5B1081‐24,"Vandenberg, SLC‐4E",Starlink: Group 17-29,13800.0,SSO,Success
+"May 12, 2026",F9 B5B1097‐9,"Vandenberg, SLC‐4E",NROL-172 (22 Starshield satellites),,LEO,Success
+"May 15, 2026",F9 B5B1096‐6,"Cape Canaveral, SLC‐40",SpaceX CRS-34 (Cargo Dragon C209-6),2948.0,LEO (ISS),Success
+"May 20, 2026",F9 B5B1103‐2,"Vandenberg, SLC‐4E",Starlink: Group 17-42,13800.0,SSO,Success
+"May 21, 2026",F9 B5B1077‐28,"Cape Canaveral, SLC‐40",Starlink: Group 10-31,16675.0,LEO,Success
+"May 25, 2026",F9 B5B1078‐28,"Cape Canaveral, SLC‐40",Starlink: Group 10-47,16675.0,LEO,Success
+"May 26, 2026",F9 B5B1100‐6,"Vandenberg, SLC‐4E",Starlink: Group 17-37,13800.0,SSO,Success
+"May 29, 2026",F9 B5B1085‐16,"Cape Canaveral, SLC‐40",Starlink: Group 10-53,16675.0,LEO,Success
+"May 30, 2026",F9 B5B1082‐22,"Vandenberg, SLC‐4E",Starlink: Group 17-41,13800.0,SSO,Success
+"June 3, 2026",F9 B5B1088‐16,"Vandenberg, SLC‐4E",Starlink: Group 17-47,13800.0,SSO,Success
+"June 4, 2026",F9 B5B1090‐12,"Cape Canaveral, SLC‐40",Starlink: Group 10-43,16675.0,LEO,Success
+"June 7, 2026",F9 B5B1097‐10,"Vandenberg, SLC‐4E",Starlink: Group 17-43 + 2 Starshield satellites,12075.0,SSO,Success
+"June 8, 2026",F9 B5B1067‐35,"Cape Canaveral, SLC‐40",Starlink: Group 10-35,16675.0,LEO,Success
+"June 11, 2026",F9 B5B1071‐34,"Vandenberg, SLC‐4E",Starlink: Group 17-44,13800.0,SSO,Success
+"June 12, 2026",F9 B5B1080‐27,"Cape Canaveral, SLC‐40",Starlink: Group 10-54,16675.0,LEO,Success
+"June 15, 2026",F9 B5B1093‐14,"Vandenberg, SLC‐4E",Starlink: Group 17-54,13800.0,SSO,Success
+"June 17, 2026",F9 B5B1077‐29,"Cape Canaveral, SLC‐40","BlueBird Block 2 FM3-5 (3 Satellites, BlueBird 8 to 10)",13500.0,LEO,Success
